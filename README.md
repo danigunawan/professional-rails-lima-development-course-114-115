@@ -19,9 +19,9 @@ Or install it yourself as:
     $ gem install devcamp_view_tool
 
 ## Usage
-'''''ruby
+```ruby
 DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All right reserved'
-'''''
+```
 
 ## Development
 
